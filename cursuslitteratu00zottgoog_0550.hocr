@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cursuslitteratu00zottgoog_0550.png"; bbox 0 0 3524 5652; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 340 4687 954 4811">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 340 4687 954 4811">
+     <span class='ocr_line' id='line_1_1' title="bbox 340 4701 410 4811; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 340 4701 410 4811; x_wconf 55' lang='lat' dir='ltr'><em>„We</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 437 4718 501 4779; textangle 180"><span class='ocrx_word' id='word_1_2' title='bbox 437 4718 501 4779; x_wconf 62' lang='lat' dir='ltr'><em>m„</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 503 4733 550 4790; textangle 180"><span class='ocrx_word' id='word_1_3' title='bbox 503 4733 550 4790; x_wconf 63' lang='lat' dir='ltr'><em>‚m</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 630 4734 781 4778; textangle 180"><span class='ocrx_word' id='word_1_4' title='bbox 630 4734 781 4778; x_wconf 56' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 783 4687 873 4801; textangle 180"><span class='ocrx_word' id='word_1_5' title='bbox 783 4687 873 4801; x_wconf 50' lang='lat' dir='ltr'><em>W</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 878 4713 954 4789; textangle 180"><span class='ocrx_word' id='word_1_6' title='bbox 878 4713 954 4789; x_wconf 59' lang='lat' dir='ltr'><em>w„</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1766 5652">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1766 5652">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1766 5652; textangle 180"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1766 5652; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
